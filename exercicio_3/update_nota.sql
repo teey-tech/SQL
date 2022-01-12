@@ -1,0 +1,1 @@
+update tb_alunos set nota = "5.0" where id = 6

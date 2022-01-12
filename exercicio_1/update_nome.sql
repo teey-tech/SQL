@@ -1,0 +1,1 @@
+update tb_funcionaries set nome = "Thiago Batista" where id = 1;
